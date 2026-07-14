@@ -69,12 +69,11 @@ gcc Main.c -o TankGame
 ```
 
 ## 📂 File Structure (Only Published Files in Repo)
+📥 游戏可执行文件下载：[TankGame.exe](./game.exe)
 ```
 cs100-terminal-tank-game/
 ├── TankGame.exe       # Compiled executable program (only public file)
 ├── README.md          # Project introduction document
-└── docs/
-    └── ProjectReport.docx  # Full project design report
 ```
 > Note: All `.h` / `.c` source files are stored locally and not uploaded to this private repository to protect original code.
 
